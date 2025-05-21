@@ -1,2 +1,2 @@
 # BDSET-Training
-In this repository, I includes only training codes and files
+In this repository, I include only training codes and files
